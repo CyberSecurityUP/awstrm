@@ -1,4 +1,4 @@
-# cybersecurityup.github.io/awstrm/index.html#
+# cybersecurityup.github.io/awstrm/index.html
 
 ### Inspired by the Azure Threat Research Matrix
 
